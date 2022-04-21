@@ -3,8 +3,8 @@ package git;
 public class HelloClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		 System.out.println("see you in github");
+		 System.out.println("hello github");
 	}
 
 }
